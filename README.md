@@ -3,7 +3,7 @@
 
 - 📚 Estudando HTML/CSS, Javascript e React.
 - :eyes: Estou buscando oportunidades para iniciar carreira no Desenvolvimento Web.
-- 🌱 Platando conhecimento para colher resultados.
+- 🌱 Plantando conhecimento para colher resultados.
 <br/>
 <br/>
 <div align="center" dir="auto">
