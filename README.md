@@ -1,7 +1,3 @@
-
-
-
-
 ## Olá, me chamo Camilo de Assis! 
 ### Bem vindo ao meu perfil GitHub 👋
 
@@ -16,7 +12,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CamilodeAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
- <br/>
+<br/>
 <div align="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
