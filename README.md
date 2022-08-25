@@ -1,7 +1,8 @@
 ## Olá, me chamo Camilo de Assis! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 📚 Estudando HTML/CSS, Javascript e React.
+- :brain: Conhecimento em HTML & CSS e Javascript.
+- 📚 Estudando Typescript, React e Tailwindcss.
 - :eyes: Estou buscando oportunidades para iniciar carreira como desenvolvedor.
 - 🌱 Plantando conhecimento para colher resultados.
 <br/>
