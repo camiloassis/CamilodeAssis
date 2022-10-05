@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - :brain: Conhecimento em HTML & CSS e Javascript.
-- 📚 Estudando Typescript, React e Tailwindcss.
+- 📚 Estudando Typescript, React.
 - :eyes: Estou buscando oportunidades para iniciar carreira como desenvolvedor.
 - 🌱 Plantando conhecimento para colher resultados.
 <br/>
