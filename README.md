@@ -28,7 +28,7 @@
 ### Contatos:
 <div>
 <a href="https://instagram.com/camilokotecki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "camilo.assis10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "[camilo.assis10@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRrlzsMxxLhmGtFzwvpsrFjxzpSwvXfbVqbrRLfRktlqlKdpbwWhdcsjQTzDWVXhcjFzhVb)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/camilodeassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
