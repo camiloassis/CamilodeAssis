@@ -2,7 +2,6 @@
 ### Bem vindo ao meu perfil GitHub 👋
 ### Visite o meu portfólio -> https://personal-portfolio-8pjm.vercel.app
 - :brain: Conhecimento em HTML & CSS, Javascript, ReactJs, Tailwind, Typescript, NodeJs e MySQL.
-- 📚 Estudando .
 - :eyes: Estou buscando oportunidades para iniciar carreira como desenvolvedor.
 - 🌱 Plantando conhecimento para colher resultados.
 <br/>
