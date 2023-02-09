@@ -1,6 +1,6 @@
 ## Olá, me chamo Camilo de Assis! 
 ### Bem vindo ao meu perfil GitHub 👋
-### Visite o meu portfólio -> https://camilokotecki.tech
+### Visite o <a href="https://camilokotecki.tech" target="__blank">meu portfólio pessoal</a> 
 
 <br/>
 <br/>
