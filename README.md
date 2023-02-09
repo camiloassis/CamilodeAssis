@@ -1,4 +1,5 @@
 ### Bem vindo ao meu perfil GitHub 👋
+
 ##
 Olá, sou Camilo de Assis e sou desenvolvedor web. Tenho conhecimento em tecnologias do back-end como Node.js, Sequelize e MySQL, bem como no front-end com JavaScript, HTML, CSS, ReactJS, TailwindCSS e TypeScript.
 
@@ -39,6 +40,9 @@ Se você está procurando por um desenvolvedor web confiável e apaixonado, não
 <div>
 <a href="https://www.linkedin.com/in/camilodeassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
+
+ 
+ 
  
 
  
