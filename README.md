@@ -1,8 +1,6 @@
 ## Olá, me chamo Camilo de Assis! 
 ### Bem vindo ao meu perfil GitHub 👋
 ### Visite o meu portfólio -> https://personal-portfolio-8pjm.vercel.app
-- :brain: Conhecimentos em HTML & CSS, Javascript, ReactJs, Tailwind, Typescript, NodeJs e MySQL.
-
 
 <br/>
 <br/>
@@ -24,7 +22,7 @@
 <div/>
 <br/>
  
-### Contatos:
+### Contato:
 <div>
 <a href="https://www.linkedin.com/in/camilodeassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
