@@ -3,7 +3,7 @@
 ##
 Olá, sou Camilo de Assis e sou desenvolvedor web. Tenho conhecimento em tecnologias do back-end como Node.js, Sequelize e MySQL, bem como no front-end com JavaScript, HTML, CSS, ReactJS, TailwindCSS e TypeScript.
 
-Sou uma pessoa focada e determinada a aprender todos os aspectos do mundo do desenvolvimento web. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e expandir meus conhecimentos
+Sou uma pessoa focada e determinada a aprender todos os aspectos do mundo do desenvolvimento web. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e expandir meus conhecimentos.
 
 Se você está procurando por um desenvolvedor web confiável e apaixonado, não hesite em entrar em contato comigo. Estou animado para colaborar em projetos futuros e crescer juntos! ✌
 ##
