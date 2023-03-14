@@ -9,7 +9,7 @@ Se você está procurando por um desenvolvedor web confiável e apaixonado, não
 ##
 <div align="center" dir="auto"> 
  
-### Visite meu <a href="https://camilokotecki.tech" target="_blank">>>Portfólio pessoal<<</a> 
+### Visite meu <a href="https://camilokotecki.tech" target="_blank">>Portfólio pessoal<</a> 
  
 </div>
 <br/>
