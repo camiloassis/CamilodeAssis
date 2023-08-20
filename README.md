@@ -1,8 +1,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ##
-Olá, meu nome é Camilo de Assis. Tenho conhecimento em tecnologias do back-end como Node.js, Sequelize e MySQL, bem como no front-end com JavaScript, HTML, CSS, Angular, ReactJS, TailwindCSS e TypeScript.
-
+Olá, meu nome é Camilo de Assis. Tenho experiencia e conhecimento sólido em tecnologias do front-end como Angular, TypeScript=, JavaScript, HTML, CSS, e ReactJs. Tambem conhecimento academico en tecnologias do back-end como Node.js, Sequelize e MySQL.
 Sou uma pessoa focada e determinada a aprender todos os aspectos do mundo do desenvolvimento web. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e expandir meus conhecimentos.
 
 Se você está procurando por um desenvolvedor web confiável e apaixonado, não hesite em entrar em contato comigo. Estou animado para colaborar em projetos futuros e crescer juntos! ✌
