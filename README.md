@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ##
-Olá, Tenho experiencia e conhecimentos sólidos em tecnologias do front-end como Angular, TypeScript, JavaScript, HTML, CSS, e ReactJs. Tambem conhecimento acadêmico em tecnologias do back-end como Node.js, Sequelize e MySQL. 
+Olá, Tenho experiencia e conhecimentos sólidos em tecnologias do front-end como Angular, TypeScript, JavaScript, HTML, CSS, e ReactJs.
 
 Sou uma pessoa focada e determinada a aprender todos os aspectos do mundo do desenvolvimento web. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e expandir meus conhecimentos.
 
@@ -9,7 +9,6 @@ Se você está procurando por um desenvolvedor web confiável e apaixonado, não
 ##
 <div align="center" dir="auto"> 
  
-### Visite meu <a href="https://camilokotecki.tech" target="_blank">>Portfólio pessoal<</a> 
  
 </div>
 <br/>
