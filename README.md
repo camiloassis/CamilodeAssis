@@ -5,7 +5,7 @@ Olá, Tenho experiencia e conhecimentos sólidos em tecnologias do front-end com
 
 Sou uma pessoa focada e determinada a aprender todos os aspectos do mundo do desenvolvimento web. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e expandir meus conhecimentos.
 
-Se você está procurando por um desenvolvedor web confiável e apaixonado, não hesite em entrar em contato comigo. Estou animado para colaborar em projetos futuros e crescer juntos! ✌
+Se você está procurando por um desenvolvedor web confiável, não hesite em entrar em contato comigo. Estou animado para colaborar em projetos futuros e crescer juntos! ✌
 ##
 <div align="center" dir="auto"> 
  
