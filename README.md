@@ -1,13 +1,4 @@
-### Bem vindo ao meu perfil GitHub 👋
 
-##
-Olá, Tenho experiencia e conhecimentos sólidos em tecnologias do universo web.
-
-Se você está procurando por um desenvolvedor web confiável, não hesite em entrar em contato comigo. Estou animado para colaborar em projetos futuros e crescer juntos! ✌
-##
-<div align="center" dir="auto"> 
- 
- 
 </div>
 <br/>
 <br/>
